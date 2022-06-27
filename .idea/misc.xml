@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/drawable/header_background.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/drawable/popup_background.xml" value="0.1" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/drawable/white_background.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout-land/activity_bppage.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout-land/activity_sleep_page.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout-land/activity_spo2page.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/activity_bppage.xml" value="0.1" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/activity_call_center.xml" value="0.184375" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/activity_fit_dash.xml" value="0.20545560069645966" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/activity_sleep_page.xml" value="0.1" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/activity_spo2page.xml" value="0.1" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/activity_steps_page.xml" value="0.184375" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/bpdata_item.xml" value="0.1" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/ring_dialogue.xml" value="0.1" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/sleep_dialogue.xml" value="0.184375" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/sleepdata_item.xml" value="0.1" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/spo2data_item.xml" value="0.1" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/stepsdata_item.xml" value="0.184375" />
+        <entry key="..\:/Users/Clint/AndroidStudioProjects/GMed- Myhealth - testbench/app/src/main/res/layout/stepsdatainv_item.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
